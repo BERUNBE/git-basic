@@ -2,3 +2,9 @@
 Barbarian creatures are generally slow, but have high Attack skills and hit points. While
  excellent in the early and midgame, the Barbarian creatures begin to falter towards the
  endgame. The early game advantage is accented in small and medium maps.
+
+Sorceress creatures are generally very fast, but have low hit points. Weak in the early
+ game, and moderate at best in the endgame, the Sorceress creatures are the best in the 
+midgame. The combination of speed, flying, and range attack becomes incredibly
+ potent. Medium maps are perfect for Sorceress creatures.
+
