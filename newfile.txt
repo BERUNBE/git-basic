@@ -8,3 +8,7 @@ Sorceress creatures are generally very fast, but have low hit points. Weak in th
 midgame. The combination of speed, flying, and range attack becomes incredibly
  potent. Medium maps are perfect for Sorceress creatures.
 
+Wizard creatures have a little of everything, some toughness, some speed, some range 
+strike ability. Like the Necromancer, the Wizard is weak in the early game, strong in the
+ midgame, and challenges the Warlock for endgame power. Titans and Archmages are
+ the best range strike creatures around, and Titans match up to Dragons in power.
