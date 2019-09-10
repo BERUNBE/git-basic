@@ -1,14 +1,13 @@
+Git has three sections: the working directory, the staging area, and the repository. 
 
-Barbarian creatures are generally slow, but have high Attack skills and hit points. While
- excellent in the early and midgame, the Barbarian creatures begin to falter towards the
- endgame. The early game advantage is accented in small and medium maps.
+The working directory is the physical directory in a developer's computer where he is making local code changes. 
 
-Sorceress creatures are generally very fast, but have low hit points. Weak in the early
- game, and moderate at best in the endgame, the Sorceress creatures are the best in the 
-midgame. The combination of speed, flying, and range attack becomes incredibly
- potent. Medium maps are perfect for Sorceress creatures.
+The staging area is the section that contains which local code changes should be included in the next commit.
 
-Wizard creatures have a little of everything, some toughness, some speed, some range 
-strike ability. Like the Necromancer, the Wizard is weak in the early game, strong in the
- midgame, and challenges the Warlock for endgame power. Titans and Archmages are
- the best range strike creatures around, and Titans match up to Dragons in power.
+The repository is where code changes are saved as commits. There are two types of repositories: local and remote. Local repositories exist only in the computer where it is being updated whereas remote repositories are visible and accessible to more than one computer.
+
+"git add" is the command used to add local code changes to the staging area.
+
+"git commit" is the command used to save the staged coding changes to the repository.
+
+"git push" is the command used to update a remote repository with the commits saved in a local repository.
